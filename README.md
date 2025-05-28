@@ -63,7 +63,7 @@ The processed dataset was loaded into Power BI to enable dynamic sentiment visua
 
 ## 🖼️ Screenshot
 
-screenshots
+https://github.com/Harjeet-001/Fake-News-Intelligence-Dashboard/tree/main/screenshots
 
 ---
 
