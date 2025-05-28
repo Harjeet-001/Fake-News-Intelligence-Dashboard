@@ -63,7 +63,7 @@ The processed dataset was loaded into Power BI to enable dynamic sentiment visua
 
 ## 🖼️ Screenshot
 
-![Dashboard Preview](./screenshots/dashboard_final.png)
+screenshots
 
 ---
 
