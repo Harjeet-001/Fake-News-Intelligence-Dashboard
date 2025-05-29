@@ -1,0 +1,41 @@
+import pandas as pd
+
+df = pd.read_csv('/content/FakeNewsDataset.csv')
+df.head()
+# 1. Install TextBlob if needed
+!pip install textblob
+
+# 2. Import libraries
+import pandas as pd
+from textblob import TextBlob
+
+# 3. Upload your original dataset again
+from google.colab import files
+uploaded = files.upload()
+
+# 4. Load the CSV
+df = pd.read_csv('FakeNewsDataset.csv')  # or change filename if needed
+
+# 5. Apply sentiment analysis
+def get_sentiment_score(text):
+    return TextBlob(str(text)).sentiment.polarity
+
+def get_sentiment_label(score):
+    if score > 0.1:
+        return "Positive"
+    elif score < -0.1:
+        return "Negative"
+    else:
+        return "Neutral"
+
+df["sentiment_score"] = df["text"].apply(get_sentiment_score)
+df["sentiment"] = df["sentiment_score"].apply(get_sentiment_label)
+
+# 6. Save new CSV
+df.to_csv("FakeNewsDataset_withSentiment.csv", index=False)
+
+# 7. Download the new file
+files.download("FakeNewsDataset_withSentiment.csv")
+
+
+
