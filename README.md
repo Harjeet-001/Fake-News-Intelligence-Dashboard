@@ -17,7 +17,7 @@ It explores trends by **source**, **category**, and **sentiment**, offering inte
 - 📈 Sentiment score over time (line chart)
 - 🗺️ Treemap of top fake news sources
 - 🎛️ Slicers for date, label, source, and category
-- 💾 Dataset enhanced using Python (TextBlob via Google Colab)
+- 💾 Dataset enhanced using Python  (TextBlob via Google Colab)
 
 ---
 
