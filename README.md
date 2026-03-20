@@ -78,7 +78,7 @@ https://github.com/Harjeet-001/Fake-News-Intelligence-Dashboard/tree/main/screen
 
 ## 👤 Author
 
-**Harjeet Gowda**  
+**S. Harjeet**  
 🎓 Data Science Student – Kumaraguru College  
 📫 harjeetgowda@gmail.com  
 🔗 [LinkedIn](www.linkedin.com/in/harjeet-gowda-a04900337)
