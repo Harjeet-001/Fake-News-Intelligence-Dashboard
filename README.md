@@ -37,7 +37,7 @@ Fake-News-Intelligence-Dashboard/
 yaml
 Copy
 Edit
-YOLO badge
+Pair badge attempt
 ---
 
 ## 🧪 Sentiment Analysis (via Python)
