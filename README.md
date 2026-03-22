@@ -37,7 +37,7 @@ Fake-News-Intelligence-Dashboard/
 yaml
 Copy
 Edit
-Pair badge attempt
+Pair badge attempt 2
 ---
 
 ## 🧪 Sentiment Analysis (via Python)
