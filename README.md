@@ -15,7 +15,7 @@ It explores trends by **source**, **category**, and **sentiment**, offering inte
 - 🧠 Sentiment analysis (Positive, Neutral, Negative)
 - 🗂️ Category-wise sentiment heatmap
 - 📈 Sentiment score over time (line chart)
-- 🗺️ Treemap of top fake news sources
+- 🗺️ Treemap of top fake news sources..
 - 🎛️ Slicers for date, label, source, and category
 - 💾 Dataset enhanced using Python  (TextBlob via Google Colab)
 
