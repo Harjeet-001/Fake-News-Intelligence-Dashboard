@@ -76,6 +76,11 @@ https://github.com/Harjeet-001/Fake-News-Intelligence-Dashboard/tree/main/screen
 
 ---
 
+**new feature idea:**
+user feedback
+confidence scoring for predictions 
+ai based fake news detection
+
 ## 👤 Author
 
 **S. Harjeet**  
